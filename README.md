@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me cain.maciasb@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love chilaquiles
 
 <!---
